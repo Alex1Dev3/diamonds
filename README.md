@@ -1,1 +1,1 @@
-# diamonds
+### Smart contracts for working of diamond tokens and their crowdsale and market
